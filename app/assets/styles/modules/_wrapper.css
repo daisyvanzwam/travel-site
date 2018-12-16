@@ -32,4 +32,8 @@
             margin-bottom: 4rem;
         }
     }
+
+    &--narrow {
+        max-width: 470px;
+    }
 }
